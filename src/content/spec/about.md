@@ -1,5 +1,5 @@
 # About
-This is Osama’s Blog.
+This is Osama’s Blog.هي المدونة تبعي عملتها مشان تكون journal عشاني بلا بلا )(٨٨٨
 
 ::github{repo="saicaca/fuwari"}
 
