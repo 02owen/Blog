@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is Osama’s Blog.
 
 ::github{repo="saicaca/fuwari"}
 
