@@ -1,9 +1,12 @@
 # About
-This is Osama’s Blog.هي المدونة تبعي عملتها مشان تكون journal عشاني بلا بلا )(٨٨٨
+Welcome to Osama’s Blog!
+​Here, I will explore and write about a wide variety of topics. Every single post on this blog is 100% human-written—absolutely no AI is used here.
+​My main goal is education and sharing knowledge. If you ever disagree with a point I make, please share your thoughts! I welcome open discussions and would love to hear your perspective.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="02owen/Blog"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> - philosophy 
+> - science 
+> - history 
+> - ..... 
+
