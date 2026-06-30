@@ -9,7 +9,7 @@ category: historical figures
 draft: false
 ---
 > ### Article structure 
-```js showLineNumbers=false
+```bash showLineNumbers=false
 @ Karl marx 
 ├──  introduction 
 └──  pre Karl marx
