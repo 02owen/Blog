@@ -9,7 +9,7 @@ category: historical figures
 draft: false
 ---
 > ### Article structure 
-```article structure 
+```bash
 @ Karl marx 
 ├──  introduction 
 └──  pre Karl marx
