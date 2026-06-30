@@ -8,4 +8,22 @@ tags: ["politics", "history", "historical figure"]
 category: historical figures 
 draft: false
 ---
-In progress 
+> Article structure 
+```
+Karl marx
+├──  introduction 
+└──  pre Karl marx
+    ├── cover.png
+    └── index.md
+└──  Karl marx
+    ├── cover.png
+    └── index.md
+└──  post Karl marx
+    ├── cover.png
+    └── index.md
+└──  post Marxism
+    ├── cover.png
+    └── index.md
+```
+In progress
+ 
