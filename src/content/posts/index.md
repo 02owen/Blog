@@ -9,9 +9,9 @@ category: historical figures
 draft: false
 ---
 > ### Article structure 
-```
-#### Karl marx 
-├──  introduction <
+```article structure 
+@ Karl marx 
+├──  introduction 
 └──  pre Karl marx
     ├── cover.png
     └── index.md
