@@ -9,7 +9,7 @@ category: historical figures
 draft: false
 ---
 > ### Article structure 
-```
+
 Karl marx
 ├──  introduction 
 └──  pre Karl marx
@@ -24,6 +24,6 @@ Karl marx
 └──  post Marxism
     ├── cover.png
     └── index.md
-```
+
 In progress
  
