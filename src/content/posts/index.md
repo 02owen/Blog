@@ -9,21 +9,21 @@ category: historical figures
 draft: false
 ---
 > ### Article structure 
-
-####Karl marx <br>
-├──  introduction <br>
-└──  pre Karl marx<br>
-    ├── cover.png<br>
-    └── index.md<br>
-└──  Karl marx<br>
-    ├── cover.png<br>
-    └── index.md<br>
-└──  post Karl marx<br>
-    ├── cover.png<br>
-    └── index.md<br>
-└──  post Marxism<br>
-    ├── cover.png<br>
-    └── index.md<br>
-
+```
+#### Karl marx 
+├──  introduction <
+└──  pre Karl marx
+    ├── cover.png
+    └── index.md
+└──  Karl marx
+    ├── cover.png
+    └── index.md
+└──  post Karl marx
+    ├── cover.png
+    └── index.md
+└──  post Marxism
+    ├── cover.png
+    └── index.md
+```
 In progress
  
