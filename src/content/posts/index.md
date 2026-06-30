@@ -8,7 +8,7 @@ tags: ["politics", "history", "historical figure"]
 category: historical figures 
 draft: false
 ---
-> Article structure 
+> ### Article structure 
 ```
 Karl marx
 ├──  introduction 
