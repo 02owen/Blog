@@ -16,7 +16,7 @@ draft: false
 └──  the backstory 
     ├── the creator
     └── the philosophy
-└──  pure data's application 
+└──  the application of Pure data 
     ├── how do i use pure data to make music 
     └── Pd as a sandbox 
 └──  you want to start?
