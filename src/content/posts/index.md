@@ -9,7 +9,7 @@ tags: [music, coding,]
 category: coding 
 draft: false
 ---
-
+> ### Article structure 
 ```bash showLineNumbers=false
 @ Pure data
 ├──  introduction 
@@ -17,8 +17,8 @@ draft: false
     ├── the creator
     └── the philosophy
 └──  the application of Pure data 
-    ├── how  i use pure data to make music 
+    ├── how do i use pure data to make music 
     └── Pd as a sandbox 
-└──  you want to start
+└──  you want to start?
 └──  conclusion 
 ```
