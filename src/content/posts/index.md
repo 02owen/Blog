@@ -8,7 +8,7 @@ tags: [music, coding,]
 category: coding 
 draft: false
 ---
-> ## Article structure 
+> ### Article structure 
 ```bash showLineNumbers=false
 @ Pure data
 ├──  introduction 
@@ -23,11 +23,12 @@ draft: false
 ```
 ---
 
-> ## introduction
-#### Pure Data (Pd) is a visual programming language developed by Miller Puckette in the 1990s for creating interactive computer music and multimedia works. While Puckette is the main author of the program, Pd is an open-source project with a large developer base working on new extensions.
+> ### introduction
+##### Pure Data (Pd) is a visual programming language developed by Miller Puckette in the 1990s for creating interactive computer music and multimedia works. While Puckette is the main author of the program, Pd is an open-source project with a large developer base working on new extensions.
 
 ---
 
-> ## the backstory
-> ### the creator
-#### pu
+> ### the backstory
+<br>
+> #### the creator
+##### pu
