@@ -13,17 +13,17 @@ draft: false
 @ Karl marx 
 ├──  introduction 
 └──  pre Karl marx
-    ├── cover.png
-    └── index.md
+    ├── -
+    └── -
 └──  Karl marx
-    ├── cover.png
-    └── index.md
+    ├── -
+    └── -
 └──  post Karl marx
-    ├── cover.png
-    └── index.md
+    ├── -
+    └── -
 └──  post Marxism
-    ├── cover.png
-    └── index.md
+    ├── -
+    └── -
 ```
 In progress
  
