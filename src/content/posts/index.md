@@ -33,8 +33,7 @@ Pure Data (Pd) is a visual programming language developed by Miller Puckette in 
 > ### the backstory
 > #### the creator
 ```bash showLineNumbers=false
-Pure Data is developed by Miller Puckette since 1996 and you can find it on his official website along with the official documentation and other related resources. This is the official "Pd" or "main distribution" and it is also known as "Pd Vanilla", but there are other forks or "flavours".
+Pure Data (is) developed by Miller Puckette since 1996 and you can find it on his official website along with the official documentation and other related resources. This is the official "Pd" or "main distribution" and it is also known as "Pd Vanilla", but there are other forks or "flavours".
 ```
-:::Note
-Miller Puckette's official website: https://msp.ucsd.edu/
-:::
+> [!Note]
+> [Miller Puckette's official website](https://msp.ucsd.edu/)
