@@ -41,7 +41,7 @@ Pure Data (is) developed by Miller Puckette since 1996 and you can find it on hi
 ```bash showLineNumbers=false
 Miller Smith Puckette (born 1959) is an American computer scientist and musician. Puckette is best known for authoring Max, a visual programming language for music and multimedia, which he initially developed while working at IRCAM in Paris in the late 1980s. He is also the author of Pure Data (Pd), an open source successor to Max written in the 1990s with input from many others in the computer music and free software communities. Puckette is professor emeritus of computer music at the University of California, San Diego.
 ```
-<br>
+---
 
 > #### the philosophy
 ```bash showLineNumbers=false
@@ -67,3 +67,6 @@ In traditional text-based programming (like C++ or JUCE), testing a DSP algorith
 ​Pure Data eliminates this friction. It acts as a live runtime sandbox where you can build, break, and alter complex logic on the fly without ever stopping execution.
 that's why Using Pure Data as a sandbox is a brilliant paradigm for real-time experimentation. Because Pd treats data, control messages, and audio streams as fluid, interconnected signals, it acts as a highly reactive, zero-risk laboratory.
 ```
+---
+
+> ### you want to start?
