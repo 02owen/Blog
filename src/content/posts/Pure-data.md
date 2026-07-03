@@ -59,6 +59,7 @@ I was exploring different kinds of programming languages when I discovered a vis
 ```
 > [!NOTE]
 > In the Pure Data community, a "flavor" is basically a specific version of PD.
+
 <br>
 
 > #### Pd as a sandbox
@@ -70,3 +71,10 @@ that's why Using Pure Data as a sandbox is a brilliant paradigm for real-time ex
 ---
 
 > ### you want to start?
+
+> here is a full [guide](https://msp.ucsd.edu/) for installing and running pure data.
+
+---
+
+> ### Conclusion 
+
