@@ -72,7 +72,7 @@ that's why Using Pure Data as a sandbox is a brilliant paradigm for real-time ex
 
 > ### you want to start?
 
->here is a full [guide](https://msp.ucsd.edu/) for installing and running pure data.
+>here is a full [guide](https://wp.nyu.edu/computer_music/installing-pd/) for installing and running pure data.
 
 ---
 
