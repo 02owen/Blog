@@ -15,7 +15,7 @@ draft: false
 └──  the backstory 
     ├── the creator
     └── the philosophy
-└──  the application of Pure data 
+└──  the applications of Pure data 
     ├── how do i use pure data to make music 
     └── Pd as a sandbox 
 └──  you want to start?
@@ -46,4 +46,11 @@ Miller Smith Puckette (born 1959) is an American computer scientist and musician
 > #### the philosophy
 ```bash showLineNumbers=false
 Pure Data (Pd) is an open-source visual programming language and real-time graphical environment designed for audio signal processing, synthesis, and multimedia creation. It allows users to construct modular "patches" by connecting objects in a graphical interface to perform tasks such as live electronic music performance, sound design, video manipulation, and sensor-based interactions. Developed by composer and computer music researcher Miller Puckette, Pd emphasizes accessibility, extensibility, and cross-platform compatibility, making it a foundational tool for interactive arts and digital signal processing, the origins of Pd trace back to 1994, when Puckette, then at the University of California, San Diego, initiated its development as an open-source evolution of his earlier commercial software Max, seeking to enhance real-time audio capabilities on standard personal computers without proprietary restrictions.
+```
+ <br>
+
+ > ### the applications of pure data
+> #### how do i use pure data to play music 
+```bash showLineNumbers=false
+Personally, I use Pure Data to play music, considering it my "instrument". While I am certainly no expert, I love connecting visual objects to create simple patches that generate synthesis or process audio
 ```
