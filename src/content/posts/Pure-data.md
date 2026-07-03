@@ -63,7 +63,7 @@ I was exploring different kinds of programming languages when I discovered a vis
 
 > #### Pd as a sandbox
 ```bash showLineNumbers=false
-In traditional text-based programming (like C++ or JUCE), testing a DSP algorithm requires a tedious loop: write code \rightarrow compile \rightarrow run \rightarrow crash/test \rightarrow repeat.
+In traditional text-based programming (like C++ or JUCE), testing a DSP algorithm requires a tedious loop: write code > compile > run > crash/test > repeat.
 ​Pure Data eliminates this friction. It acts as a live runtime sandbox where you can build, break, and alter complex logic on the fly without ever stopping execution.
 that's why Using Pure Data as a sandbox is a brilliant paradigm for real-time experimentation. Because Pd treats data, control messages, and audio streams as fluid, interconnected signals, it acts as a highly reactive, zero-risk laboratory.
 ```
