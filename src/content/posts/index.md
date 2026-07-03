@@ -49,7 +49,7 @@ Pure Data (Pd) is an open-source visual programming language and real-time graph
 ```
  <br>
 
- > ### the applications of pure data
+> ### the applications of pure data
 > #### how do i use pure data to play music 
 ```bash showLineNumbers=false
 Personally, I use Pure Data to play music, considering it my "instrument". While I am certainly no expert, I love connecting visual objects to create simple patches that generate synthesis or process audio
