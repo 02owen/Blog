@@ -59,3 +59,10 @@ I was exploring different kinds of programming languages when I discovered a vis
 ```
 > [!NOTE]
 > In the Pure Data community, a "flavor" is basically a specific version of PD.
+<br>
+
+> #### Pd as a sandbox
+```bash showLineNumbers=false
+In traditional text-based programming (like C++ or JUCE), testing a DSP algorithm requires a tedious loop: write code \rightarrow compile \rightarrow run \rightarrow crash/test \rightarrow repeat.
+​Pure Data eliminates this friction. It acts as a live runtime sandbox where you can build, break, and alter complex logic on the fly without ever stopping execution.
+```
