@@ -1,4 +1,3 @@
-
 ---
 title: Hatsune Miku 
 published: 2024-04-01
