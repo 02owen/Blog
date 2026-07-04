@@ -1,9 +1,9 @@
 ---
 title: Hatsune Miku 
 published: 2024-04-01
-description: a digital singer
+description: a pop star who isn't real
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: ["music"]
+category: music 
 draft: false 
 ---
