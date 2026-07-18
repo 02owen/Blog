@@ -8,6 +8,6 @@ category: random
 draft: false
 ---
 
-## I am a FUCKING duck 🦆
+## I am a FUCKING duck 
 
 
