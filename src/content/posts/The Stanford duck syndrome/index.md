@@ -1,7 +1,7 @@
 ---
-title: 
+title: -
 published: 2026-07-18
-description: 
+description: -
 image: "./cover.jpeg"
 tags: ["random""]
 category: random 
